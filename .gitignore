@@ -1,0 +1,15 @@
+*.iml
+**/.idea
+build_reports
+.project
+.classpath
+.settings/
+target/
+logs/
+bin/
+build/
+out/
+*/*.class
+*/**/*.class
+.metadata/
+classes/
